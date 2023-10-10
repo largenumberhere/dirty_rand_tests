@@ -8,7 +8,7 @@ It explores the idea of using initialized memory to seed random integers.
 1. You will obviously need cargo installed and have made a new project.
     This root folder contains only tests for `dirty_rand`. To use dirty_rand as a library in your project, add under the `[dependencies]` section  in your `Cargo.toml`:
     ```toml
-    dirty_rand = {git = "https://github.com/largenumberhere/dirty_rand_test.git"}
+    dirty_rand = {git = "https://github.com/largenumberhere/dirty_rand_tests.git"}
     ```
     Cargo will search this repository and find the crate `dirty_rand`.
 
