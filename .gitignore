@@ -1,0 +1,12 @@
+# Ignore all the build artifacts
+/target
+/dirty_rand/target
+/dirty_rand/macros/target
+
+# Ignore all the cargo.lock files as per convention
+/Cargo.lock
+/dirty_rand/Cargo.lock
+/dirty_rand/macros/Cargo.lock
+
+# Ignore IDE's junk
+/.idea
