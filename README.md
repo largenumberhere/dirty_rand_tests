@@ -17,4 +17,3 @@ It explores the idea of using initialized memory to seed random integers.
     dirty_rand = {path = "C:\\users\\yourname\\Documents\\dirty_rand_test\\dirty_rand"}
     ```
 
-s
